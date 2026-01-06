@@ -64,9 +64,9 @@ export class App {
         darkMode: true,
         metaData: {
           applicationName: 'JioSaavn API',
-          author: 'Sumit Kolhe',
-          creator: 'Sumit Kolhe',
-          publisher: 'Sumit Kolhe',
+          author: 'Sunny Sharma',
+          creator: 'Sunny Sharma',
+          publisher: 'Sunny Sharma',
           robots: 'index, follow',
           description:
             'JioSaavn API is an unofficial wrapper written in TypeScript for jiosaavn.com providing programmatic access to a vast library of songs, albums, artists, playlists, and more.'
